@@ -1,8 +1,10 @@
 package curso.java.iranbs;
 
 public class pessoa {
+	
 	private String nome;
 	private String sobrenome;
+	
 	public String getNome() {
 		return nome;
 	}
